@@ -16,6 +16,6 @@ class Solution:
 
 
 if __name__=="__main__":
-    s='aabb'
+    s='faabbeed'
     index = Solution().firstUniqChar(s)
     print(f"res:{index}")
